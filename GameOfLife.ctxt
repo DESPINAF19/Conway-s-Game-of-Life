@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=GameOfLife
+comment1.params=r\ c
+comment1.target=GameOfLife(int,\ int)
+comment2.params=
+comment2.target=boolean[][]\ FirstGeneration()
+comment3.params=row\ col
+comment3.target=int\ Neighbors(int,\ int)
+comment4.params=
+comment4.target=void\ NextGeneration()
+comment5.params=
+comment5.target=boolean[][]\ getGrid()
+comment6.params=
+comment6.target=void\ reset()
+numComments=7
